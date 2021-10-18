@@ -41,7 +41,7 @@ img {
 .header {
   grid-area: header;
   background-color: #ddd;
-  background-image: url("interface2/interface2/static/media/mapas.2ad6ad42.jpg");
+  background-image: url("../media/mapas.2ad6ad42.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position-y: bottom;
